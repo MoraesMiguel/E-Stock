@@ -1,0 +1,95 @@
+body {
+    background:  #E5E5E5;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 80px;
+    text-align: center;
+    color: #224957;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.Login{
+    position: absolute;
+    width: 174px;
+    height: 83.55px;
+    left: 370px;
+    top: 118px;
+}
+
+.Line{
+    position: absolute;
+    width: 425px;
+    height: 0px;
+    left: 460px;
+    top: 121px;
+    margin-top: 250px;
+
+    transform: rotate(90deg);
+}
+
+.BemVindo{
+    position: absolute;
+    width: 376px;
+    height: 75px;
+    left: 660px;
+    top: 118px;
+}
+
+.Cadastre{
+    position: absolute;
+    width: 368px;
+    height: 20.89px;
+    left: 272px;
+    top: 242.28px;
+
+    color: #224957;
+}
+
+.Não{
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 307px;
+    top: 452px;
+
+    color: black;
+}
+
+.Square{
+    position: absolute;
+    width: 177px;
+    height: 174px;
+    left: 756px;
+    top: 251px;
+
+    background: #496873;
+}
+
+.Évc{
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 698px;
+    top: 428px;
+}
+
+.Vetor{
+    position: absolute;
+    left: 0px;
+    top: 601px;
+    
+}
